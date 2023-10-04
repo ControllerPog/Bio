@@ -3,7 +3,7 @@
 <p align="left" dir="auto">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CdPlayTo&label=Profile%20views&color=0e75b6&style=flat" alt="CdPlayTo" />  <img src="https://img.shields.io/badge/CdPlay%20Team-★★★★★-yellow" alt="CdPlayTo" /> </p>
 
-- 🔭 Team is currently working on game called Backrooms
+- 🔭 Team is currently working on game called Backrooms Reload
 - 📫 How to reach me: **cdplaycome@gmail.com**
 
 <h3>Languages and Tools:</h3>
